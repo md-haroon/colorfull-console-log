@@ -1,6 +1,7 @@
 {
   "name": "rgb-console-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "type": "module",
   "description": "Enhance user engagement and streamline log readability with our vibrant console package. Effortlessly grab user attention and categorize logs based on their purpose using colorful formatting. Upgrade your console output to not only inform but also captivate users with visually distinct messages ",
   "main": "index.js",
   "scripts": {
