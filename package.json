@@ -1,0 +1,26 @@
+{
+  "name": "colorfull-console-log",
+  "version": "1.0.0",
+  "description": "Enhance user engagement and streamline log readability with our vibrant console package. Effortlessly grab user attention and categorize logs based on their purpose using colorful formatting. Upgrade your console output to not only inform but also captivate users with visually distinct messages ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-haroon/colorfull-console-log.git"
+  },
+  "keywords": [
+    "[\"javascrip\"",
+    "\"console\"",
+    "\"console.log\"",
+    "\"color\"",
+    "\"colorfull\"]"
+  ],
+  "author": "jabarulla haroon <haroon.attur@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-haroon/colorfull-console-log/issues"
+  },
+  "homepage": "https://github.com/md-haroon/colorfull-console-log#readme"
+}
