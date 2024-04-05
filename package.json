@@ -1,6 +1,6 @@
 {
   "name": "rgb-console-log",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "type": "module",
   "description": "Enhance user engagement and streamline log readability with our vibrant console package. Effortlessly grab user attention and categorize logs based on their purpose using colorful formatting. Upgrade your console output to not only inform but also captivate users with visually distinct messages ",
   "main": "index.js",
@@ -21,7 +21,7 @@
   "author": "jabarulla haroon <haroon.attur@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/md-haroon/colorfull-console-log/issues"
+    "url": "https://github.com/md-haroon/rgb-console-log/issues"
   },
-  "homepage": "https://github.com/md-haroon/colorfull-console-log#readme"
+  "homepage": "https://github.com/md-haroon/rgb-console-log#readme"
 }
