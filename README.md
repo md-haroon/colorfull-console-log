@@ -2,7 +2,7 @@
 
 # rgb-console-log
 
-
+![Node Version](https://img.shields.io/badge/node.js-%3E=_4.0.0-green.svg?style=flat-square)
 ![NPM Version](https://img.shields.io/npm/v/rgb-console-log)
 ![NPM Downloads](https://img.shields.io/npm/dm/rgb-console-log)
 ![NPM License](https://img.shields.io/npm/l/rgb-console-log?logo=npm)
