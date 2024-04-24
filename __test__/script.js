@@ -1,3 +1,6 @@
-import rgbConsole from "rgb-console-log";
+import rgbConsole  from "rgb-console-log";
 
-rgbConsole("hellow")
+
+let g = new rgbConsole()
+g.Primary.msg("Hello")
+g.Secondary.msg("Hello")
