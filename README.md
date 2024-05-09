@@ -21,6 +21,20 @@ npm i rgb-console-log
 
 ```
 
+### Examples
+
+ Here is the one to get you started:
+
+```js
+
+import rgbConsole  from "rgb-console-log";
+
+rgbConsole.Primary.log("Primary style console log")
+
+```
+
+This example will display "Primary style console log" in console.
+
 
 ## LICENSE
 ![NPM License](https://img.shields.io/npm/l/rgb-console-log?logo=npm)
