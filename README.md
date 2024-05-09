@@ -20,8 +20,15 @@ Enhance user engagement and streamline log readability with our vibrant console 
 npm i rgb-console-log
 
 ```
+##  Style Properties
 
-### Examples
+- Primary
+
+- Secondary
+
+- Success
+
+## Examples
 
  Here is the one to get you started:
 
