@@ -40,6 +40,8 @@ The properties of this package find their roots in the design philosophy of [Boo
 import rgbConsole  from "rgb-console-log";
 
 rgbConsole.Primary.log("Primary style console log")
+rgbConsole.Secondary.log("Secondary style console log")
+rgbConsole.Success.log("Success style console log")
 
 ```
 
