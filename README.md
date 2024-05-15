@@ -45,7 +45,8 @@ rgbConsole.Success.log("Success style console log")
 
 ```
 
-This example will display "Primary style console log" in console.
+
+![Alt text](https://github.com/md-haroon/rgb-console-log/blob/main/asset/out-put-console-window.png)
 
 
 ## LICENSE
